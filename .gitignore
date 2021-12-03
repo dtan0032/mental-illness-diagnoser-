@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+/data/archive
+/data/archive.zip
+
+=======
+>>>>>>> parent of d97b4db (updates)
 *.iml
 .gradle
 /local.properties
